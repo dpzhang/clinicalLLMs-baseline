@@ -1,0 +1,9 @@
+You are given a multiple-choice medical question.
+
+Question:
+{question}
+ 
+Let's think about this question step by step. Provide a detailed but concise reasoning process in 2-5 sentences.  
+(Please write your reasoning process here.)
+
+Based on the above reasoning analysis, please give the final answer as a single option letter in square brackets (choose exactly one): [A], [B], [C], or [D].
