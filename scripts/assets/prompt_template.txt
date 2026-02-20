@@ -1,10 +1,1 @@
-You are given a multiple-choice medical question.
-
-Question:
-{question}
-
-Reasoning:
-Let's think step by step. Provide a detailed but concise explanation in 2-5 sentences.
-
-Final answer:
-Provide the single best option letter in square brackets (e.g., [A], [B], [C], etc.), choosing exactly one answer from the options above.
+Based only on your previous answer, provide a concise reasoning summary in 2–4 sentences and the final answer letter in square brackets (e.g., [A], [B], [C], etc.), choosing exactly one answer from the options above. Do not introduce new information.
